@@ -1,0 +1,1 @@
+# go-proposal-defer-return
